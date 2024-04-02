@@ -1,0 +1,1 @@
+var e=Object.defineProperty;var i=(a,o,t)=>o in a?e(a,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):a[o]=t;var s=(a,o,t)=>(i(a,typeof o!="symbol"?o+"":o,t),t);import{H as p}from"./index.9fa6ecce.js";class d{constructor(){s(this,"uri","/media/MediaManage/uploadPhoto")}upload(o){return p.post(`${this.uri}`,o,{baseURL:""})}}const u=new d;export{u};

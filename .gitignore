@@ -1,0 +1,17 @@
+dm/*
+emqx/*
+ftp/*
+mysql/*
+nginx/logs/*
+qicloud/logs/*
+redis/*
+socketio/*
+Images/*
+!dm/create_dm_container.sh
+!emqx/create_emqx_container.sh
+!ftp/create_vsftpd_container.sh
+!mysql/create_mysql_container.sh
+!redis/create_redis_container.sh
+!redis/config/*
+!socketio/config/*
+!socketio/create_socketio_container.sh

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="74px" height="79px" viewBox="0 0 74 79" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>飞机_airplane</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="画板备份-9" transform="translate(-1181.000000, -735.000000)" stroke="#ED2A03">
+            <g id="飞机_airplane" transform="translate(1182.000000, 736.000000)">
+                <path d="M29.3684211,12.58411 C29.3684211,4.8400275 33.7894105,0.9680055 36,0 C38.2105895,0.9680055 42.6315789,4.8400275 42.6315789,12.58411 L42.6315789,27.1041925 L72,51.975 L72,59.675 L41.6842105,44.275 L41.6842105,61.6 L51.1578947,77 L36,71.225 L20.8421053,77 L30.3157895,61.6 L30.3157895,44.275 L0,59.675 L0,51.975 L29.3684211,27.1041925 L29.3684211,12.58411 Z" id="路径"></path>
+            </g>
+        </g>
+    </g>
+</svg>
